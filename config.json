@@ -1,0 +1,10 @@
+{
+    "passcode": "123",
+    "appName": "Dashboard",
+    "appIcon": "uploads\/icon_667b0c36b630c3.90382353.png",
+    "accentColor": "#2ce8b9",
+    "globalMessage": "Welcome! We hope you enjoy the service.",
+    "apiBaseUrl": "https:\/\/8f57818f-055e-4359-a540-2e03ee75f91f-00-19ik8rodhwxtp.riker.replit.dev",
+    "latestVersion": "1.0.0",
+    "minimumVersion": "1.0.0"
+}
