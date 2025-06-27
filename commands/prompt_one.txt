@@ -1,1 +1,8 @@
+In App Section
+the databases can be create.
+each database can add their own custom keys.
+the databases can be manage able.
+to insert the data the form will be generate. 
+we will need dashboard for key management(crud).
+don't worry about the api . we will try it later.
 
